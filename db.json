@@ -4,6 +4,17 @@
       "nombre": "Christian",
       "email": "Christian@alura.com",
       "id": 1
+    },
+    {
+      "nombre": "Pedro",
+      "email": "Pedro@alura",
+      "id": "9031c378-088b-4710-98dd-79520ab59a0a"
+    },
+    {
+      "nombre": "mirian",
+      "email": "miriam@alura",
+      "id": "d22d06e7-ae82-4ec9-acef-0c4808df20a1"
     }
+    
   ]
 }
